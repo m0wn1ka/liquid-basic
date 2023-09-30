@@ -1,1 +1,2 @@
-hey i am readme filee
+## what it does
+a basic jekyll site
